@@ -1,0 +1,7 @@
+/node_modules/
+/package-lock.json
+/pnpm-lock.yaml
+/dot/*
+!/dot/.gitkeep
+/img/*
+!/img/.gitkeep
